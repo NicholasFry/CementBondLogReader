@@ -4,5 +4,5 @@ This is a python based cement bond log reader for .las files. This program uses 
 
 Enjoy.
 
-Initial release June 13, 2021 \n
+Initial release June 13, 2021 \
 Directory path correction June 14, 2021
